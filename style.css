@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul li{
+    list-style-type: none;
+}
+.container{
+    width: 90%;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #EEEEEE;
+    width: 100%;
+    height: auto;
+    margin-bottom: 5px;
+  
+}
+button{
+    padding: 1px 3px;
+}
+.boxColor1{
+    background: #7EE5DA;
+    margin: 2px;
+    padding: 12px;
+    width: 36.5%;
+}
+.boxColor2{
+    background: #70CCC2;
+    margin: 2px;
+    padding: 4.5px;
+    width: 22.5%;
+}
+.boxColor3{
+    background: #62B3AA;
+    margin: 2px;
+    width: 37.2%;
+}
+
+.box2{
+  font-size: 12px;
+  float: left;
+  text-align: center;
+} 
+.copyRight{
+    font-size: 12px;
+}
